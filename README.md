@@ -34,6 +34,8 @@ I will be using Qiskit to construct a game of tic-tac-toe that utilizes the quan
 - **If the cell is already initialized**:  
   - Show error.  
   - Allow the player to reselect an uninitialized cell.
+ 
+---
 
 #### Use Case 1.2: Qubit Flip
 - **Actors**: Player X or Player O  
